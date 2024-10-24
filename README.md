@@ -31,6 +31,7 @@ O projeto é composto pelos seguintes arquivos:
 ========== Lista de Contatos =========
 
 ---------- Menu de Comandos ----------
+
 0. Sair
 1. Adicionar contato
 2. Remover contato
